@@ -63,6 +63,7 @@ The dashboard provides valuable business insights through clean visuals, KPI car
 
 * Power BI Desktop
 * Microsoft Excel
+* Microsoft Power-Point
 * Power Query
 * DAX
 * GitHub
