@@ -2,6 +2,8 @@
 # 🚗 Toyota Car Sales Dashboard | Power BI
 
 ## 📌 Project Overview
+___________________________________________________________________________________________________
+<img width="1693" height="929" alt="Toyota Banner 1" src="https://github.com/user-attachments/assets/99551e85-2fc9-43f3-a0fe-23d05579453f" />
 
 The **Toyota Car Sales Dashboard** is a modern and interactive Power BI project designed to analyze the sales performance of Toyota's top-selling vehicles.
 This project focuses on **visual storytelling, UI/UX design, and interactive dashboard development** instead of traditional boring dashboards.
