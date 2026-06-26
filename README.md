@@ -1,3 +1,4 @@
+
 # 🚗 Toyota Car Sales Dashboard | Power BI
 
 ## 📌 Project Overview
@@ -88,7 +89,7 @@ The dataset contains the following fields:
 ## 📄 Dashboard Pages
 
 ### 🚙 Page 1 - Toyota Innova Analysis
-
+<img width="2490" height="1440" alt="TOYOTA Car Sales Dashboard_1" src="https://github.com/user-attachments/assets/7d703ae7-7ddd-464c-afe8-e2ed63120efc" />
 Detailed sales analysis of Toyota Innova.
 
 ### 🚗 Page 2 - Toyota Hyryder Analysis
